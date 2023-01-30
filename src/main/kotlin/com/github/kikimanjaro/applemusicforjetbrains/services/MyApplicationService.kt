@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.kikimanjaro.applemusicforjetbrains.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.kikimanjaro.applemusicforjetbrains.MyBundle
 
 class MyApplicationService {
 
